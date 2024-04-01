@@ -1,7 +1,4 @@
-# algoritmos-e-estruturas-de-dados-i
-Repo Algoritmos e Estruturas de Dados I
-
-# Perfil do Estudante de Engenharia de Software - PUC Minas
+# Paulo Assis Estudante de Engenharia de Software - PUC Minas
 
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
@@ -9,7 +6,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 - 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
+- 💼 **Experiência Profissional**: Programador Visual Grafico da Cimcop, curso Senai em Assistente Programação Web
 
 ## Habilidades
 
@@ -22,9 +19,9 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Projetos Destacados
 
-### [Nome do Projeto]
+### Passagem aerea
 
-Breve descrição do projeto e suas tecnologias principais.
+Um projeto desenvolvido na linguagem C que tinha um menu com diversas opções, como cadastrar passagens, alterar passagens, excluir e entre outras, para ficar mais completo se foi usasdo arquivo para que mesmo ao sair do projeto é possível voltar com as informações salvas.
 
 ### [Nome do Projeto]
 
@@ -36,8 +33,7 @@ Breve descrição do projeto e suas tecnologias principais.
 
 ## Contato
 
-- **E-mail:** [Seu E-mail]
-- **Twitter:** [Seu Perfil no Twitter]
-- **LinkedIn:** [Seu Perfil no LinkedIn]
+- **E-mail:** Paulohenrique290605@gmail.com
+- **LinkedIn:** Paulo Assis
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
