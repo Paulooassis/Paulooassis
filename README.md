@@ -34,6 +34,6 @@ Breve descrição do projeto e suas tecnologias principais.
 ## Contato
 
 - **E-mail:** Paulohenrique290605@gmail.com
-- **LinkedIn:** Paulo Assis
+- **LinkedIn:** [Paulo Assis](https://www.linkedin.com/in/paulo-assis-a5a78326b/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
