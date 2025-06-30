@@ -16,20 +16,6 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
 
-## Projetos Destacados
-
-### Passagem aerea
-
-Um projeto desenvolvido na linguagem C que tinha um menu com diversas opções, como cadastrar passagens, alterar passagens, excluir e entre outras, para ficar mais completo se foi usasdo arquivo para que mesmo ao sair do projeto é possível voltar com as informações salvas.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
-
 ## Contato
 
 - **E-mail:** Paulohenrique290605@gmail.com
