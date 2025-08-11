@@ -43,7 +43,7 @@
 
 ## 🌐 Contatos
 <p align="center">
-  <a href="www.linkedin.com/in/paulo-assis-a5a78326b" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-assis-a5a78326b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:paulohenrique290605@gmail.com">
