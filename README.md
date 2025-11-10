@@ -32,6 +32,17 @@
 
 ---
 
+## ⏳ WakaTime Stats  
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Paulooassis&theme=prussian&layout=compact" 
+    alt="WakaTime Stats"
+  />
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
