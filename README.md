@@ -32,23 +32,29 @@
 
 ---
 
-## ⏳ WakaTime Stats  
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Paulooassis&theme=prussian&layout=compact" 
-    alt="WakaTime Stats"
-  />
+
+<a href="https://github.com/Paulooassis">
+  <img width="96%" src="https://helio-github-stats.vercel.app/api?username=Paulooassis&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=6&show_icons=true&include_all_commits=true&line_height=20&text_bold=true&disable_animations=false&number_format=short"/>
+</a>
+
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulooassis&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulooassis&layout=compact&theme=tokyonight"/>
-</p>
+## ⏳ WakaTime Stats  
+
+<div align="center">
+
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=Paulooassis&custom_title=WakaTime+Stats&card_width=900&line_height=20&layout=compact&display_format=time&disable_animations=false)](https://wakatime.com/@Paulooassis)
+
+</div>
+
+</div>
+
 
 ---
 
