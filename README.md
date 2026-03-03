@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=PaulooA&custom_title=WakaTime+Stats&card_width=900&line_height=20&layout=compact&display_format=time&disable_animations=false)](https://wakatime.com/@PaulooA)
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=PauloA&custom_title=WakaTime+Stats&card_width=900&line_height=20&layout=compact&display_format=time&disable_animations=false)](https://wakatime.com/@PauloA)
 
 </div>
 
